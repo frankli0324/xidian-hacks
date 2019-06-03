@@ -1,3 +1,6 @@
 [submodule "XDUCourseRobber"]
 	path = XDUCourseRobber
 	url = https://github.com/frankli0324/XDUCourseRobber
+[submodule "xw-utils"]
+	path = xw-utils
+	url = https://github.com/frankli0324/xw-utils
